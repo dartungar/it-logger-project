@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 3,
+      "message": "Printer exploded!!!",
+      "tech": "Mao Zhedong",
+      "attention": true,
+      "date": "2020-07-12T08:08:56.955Z"
+    },
+    {
+      "id": 4,
+      "message": "Repaired Wi-Fi!!!",
+      "tech": "Kim Chong Yl",
+      "attention": false,
+      "date": "2020-07-12T08:35:21.103Z"
+    },
+    {
+      "id": 5,
+      "message": "Починил wi-fi!!!",
+      "tech": "Joseph Jugashvili",
+      "attention": false,
+      "date": "2020-07-12T11:26:31.502Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Boris",
+      "lastName": "The Blade",
+      "id": 4
+    },
+    {
+      "firstName": "Oleg",
+      "lastName": "The Seer",
+      "id": 5
+    },
+    {
+      "firstName": "Joseph",
+      "lastName": "Jugashvili",
+      "id": 6
+    }
+  ]
+}
